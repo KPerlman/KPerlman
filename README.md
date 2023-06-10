@@ -3,7 +3,7 @@
 </div>
 
 <h2>:skunk: Hi there!</h2>
-I am currently a computer science student at NYU Shanghai from California who hopes to one day figure out how to center a div.
+I am currently an electrical engineering and computer science student who hopes to one day figure out how to center a div.
 
 Watch out! I might actually start using github soon :eyes:
 
