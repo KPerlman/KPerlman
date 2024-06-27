@@ -30,9 +30,3 @@ Watch out! I might actually start using github soon :eyes:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>&nbsp;
 </div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kyle-perlman-78a939225"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
