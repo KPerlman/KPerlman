@@ -2,31 +2,32 @@
   <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47tyd5a3xytqpf8s4hffr4i8a5mpao82j8si3gclzr&rid=giphy.gif&ct=g"/>
 </div>
 
-<h2>:skunk: Hi there!</h2>
-I am an electrical and computer engineering student hoping to build Wall-E.
+<h1 align="center">Hey there! I'm Kyle (Newt) Perlman 👋</h1>
 
-Watch out! I might actually start using github soon :eyes:
+<p align="center">An Electrical and Computer Engineering student constantly curious about how things work, and driven to build things that matter. I'm passionate about bringing intelligent systems to life, from the intricate logic within an ASIC chip to the fluid motion of an autonomous robot. Currently I have my sights set on ASIC design, robotics, and quantitative analysis. </p>
 
 ---
 
+### :wrench: My Toolkit
+
+Here are some of the technologies and tools I enjoy working with:
+
 <div id="tools" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="30" height="30/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>&nbsp;
-</div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2FCS%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C#/C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB/Simulink"/>&nbsp;
+  <img src="https://img.shields.io/badge/Verilog-E70000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/Altium_Designer-A12B01?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer"/>&nbsp;
+  <img src="https://img.shields.io/badge/Fusion_360-FC4C02?style=for-the-badge&logo=autodesk-fusion-360&logoColor=white" alt="Fusion 360"/>&nbsp;
+  </div>
+
+---
+
+### :handshake: Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/kyleperlman](https://www.linkedin.com/in/kyleperlman)
+* **Personal Website:** [newtperlman.com](https://newtperlman.com)
+* **Email:** [kylemperlman@gmail.com](mailto:kylemperlman@gmail.com)
