@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47tyd5a3xytqpf8s4hffr4i8a5mpao82j8si3gclzr&rid=giphy.gif&ct=g"/>
 </div>
 
-<h1 align="center">Hey there! I'm Kyle (Newt) Perlman 👋</h1>
+<h1 align="center">Hey there! I'm Kyle Perlman 👋</h1>
 
 <p align="center">An Electrical and Computer Engineering student constantly curious about how things work, and driven to build things that matter. I'm passionate about bringing intelligent systems to life, from the intricate logic within an ASIC chip to the fluid motion of an autonomous robot. Currently I have my sights set on ASIC design, robotics, and quantitative analysis. </p>
 
