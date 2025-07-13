@@ -8,21 +8,11 @@
 
 ---
 
-### :wrench: My Toolkit
-
-Here are some of the technologies and tools I enjoy working with:
-
 <div id="tools" align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%2FCS%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C#/C++"/>&nbsp;
-  <img src="https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB/Simulink"/>&nbsp;
-  <img src="https://img.shields.io/badge/Verilog-E70000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
-  <img src="https://img.shields.io/badge/Altium_Designer-A12B01?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer"/>&nbsp;
-  <img src="https://img.shields.io/badge/Fusion_360-FC4C02?style=for-the-badge&logo=autodesk-fusion-360&logoColor=white" alt="Fusion 360"/>&nbsp;
-  </div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,dotnet,matlab,anaconda,arduino,raspberrypi,linux,ubuntu,aws,git,vscode,visualstudio&perline=16" />
+  </a>
+</div>
 
 ---
 
