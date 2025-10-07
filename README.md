@@ -19,5 +19,5 @@
 ### :handshake: Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/kyleperlman](https://www.linkedin.com/in/kyleperlman)
-* **Personal Website:** [newtperlman.com](https://newtperlman.com)
+* **Personal Website:** [kyleperlman.com](https://kyleperlman.com)
 * **Email:** [kylemperlman@gmail.com](mailto:kylemperlman@gmail.com)
